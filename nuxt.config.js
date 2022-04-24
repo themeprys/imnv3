@@ -23,6 +23,7 @@ export default {
 
   // Plugins to run before rendering page: https://go.nuxtjs.dev/config-plugins
   plugins: [
+    '~/plugins/font-awesome',
   ],
 
   // Auto import components: https://go.nuxtjs.dev/config-components
@@ -36,9 +37,6 @@ export default {
     icons:{
      solid:true,
      brands:true
-    },
-    config:{
-    autoAddCss:false,
     }
    },
   // Modules: https://go.nuxtjs.dev/config-modules

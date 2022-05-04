@@ -1,6 +1,7 @@
 <template>
   <div>
       <HeroBook />
+      <VideoBook />
       <!-- <AboutMe />
       <Portfolio /> -->
       <Contact />

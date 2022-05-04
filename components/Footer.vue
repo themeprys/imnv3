@@ -14,7 +14,7 @@ export default {
 
 <style>
 .footer {
-    background: url(~/static/img/bg1.jpeg);
+    background: url(~/static/img/red.webp);
   padding: 50px !important;
   font-weight: bold;
 }

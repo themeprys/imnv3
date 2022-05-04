@@ -32,9 +32,9 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <nuxt-link to="/rupa-suara" class="button is-primary">
-                <font-awesome-icon icon="bookmark"/>
-                <span class="pl-2">Pre-Order Book</span>
+              <nuxt-link to="/rupa-suara" class="button is-dark">
+                <font-awesome-icon icon="angle-double-down"/>
+                <span class="pl-2">Download Resume</span>
               </nuxt-link>
             </span>
           </div>
@@ -56,28 +56,25 @@
 
       <div class="imn_social">
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
             <font-awesome-icon :icon="['fab', 'facebook']"/>
-          </font-awesome-layers>
         </a>
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
             <font-awesome-icon :icon="['fab', 'instagram']"/>
-          </font-awesome-layers>
         </a>
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
           <font-awesome-icon :icon="['fab', 'twitter']"/>
-          </font-awesome-layers>        </a>
+        </a>
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
           <font-awesome-icon :icon="['fab', 'linkedin']"/>
-          </font-awesome-layers>
         </a>
       </div>
 
       <div class="imn_cta_home buttons">
-        <button class="button is-primary is-large">Download My Resume</button>
+              <nuxt-link to="/rupa-suara" class="button is-primary is-large">
+                <span class="pl-2">Pre-Order My Book</span>
+              </nuxt-link>
+
+        <!-- <button class="button is-primary is-large">Download My Resume</button> -->
       </div>
         </div>
         <div class="column">
@@ -123,11 +120,13 @@ export default {
 .navbar-item img {
   max-height: 70px;
 }
-.imn_social .fa-2x {
+.imn_social a {
   font-size: 25px !important;
+  padding: 5px;
+  color: black;
 }
 .hero {
-  background: url(~/static/img/bg1.jpeg);
+  background: url(~/static/img/red.webp) center top;
 }
 .imn_foto_hero_home img {
 -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 

@@ -10,23 +10,16 @@
 
       <div class="imn_social has-text-centered">
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
             <font-awesome-icon :icon="['fab', 'facebook']"/>
-          </font-awesome-layers>
         </a>
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
             <font-awesome-icon :icon="['fab', 'instagram']"/>
-          </font-awesome-layers>
         </a>
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
           <font-awesome-icon :icon="['fab', 'twitter']"/>
-          </font-awesome-layers>        </a>
+        </a>
         <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
           <font-awesome-icon :icon="['fab', 'linkedin']"/>
-          </font-awesome-layers>
         </a>
       </div>
   </div>

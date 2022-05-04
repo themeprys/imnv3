@@ -32,9 +32,9 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <nuxt-link to="/rupa-suara" class="button is-primary is-outlined">
-                <font-awesome-icon icon="bookmark"/>
-                <span class="pl-2">Pre-Order Book</span>
+              <nuxt-link to="/rupa-suara" class="button is-dark">
+                <font-awesome-icon icon="angle-double-down"/>
+                <span class="pl-2">Download Resume</span>
               </nuxt-link>
             </span>
           </div>
@@ -60,7 +60,7 @@
         Buku Memoar Catatan Perjalanan Iman Fattah
       </h3>
       <div class="imn_cta_book buttons">
-        <button class="button is-primary is-large">Buy IDR 90.000</button>
+        <button class="button is-primary is-large"><font-awesome-icon icon="hand-point-right"/>&nbsp;&nbsp;Buy IDR 90.000</button>
       </div>
 
       <div class="imn_book_text">
@@ -132,9 +132,6 @@ h3.imn_book_subtitle {
 }
 .imn_social .fa-2x {
   font-size: 25px !important;
-}
-.hero {
-  background: url(~/static/img/bg1.jpeg);
 }
 .imn_foto_hero_home img {
 -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 

@@ -18,13 +18,13 @@
             <a class="navbar-item is-active" href="/">
               Home
             </a>
-            <a class="navbar-item" href="#about_me">
+            <a class="navbar-item" href="/about/#about_me">
               About Me
             </a>
-            <a class="navbar-item" href="#portfolio">
+            <a class="navbar-item" href="/about/#portfolio">
               Porfolio
             </a>
-            <a class="navbar-item"  href="#contact">
+            <a class="navbar-item"  href="/about/#contact">
               Contact
             </a>
           </div>
@@ -32,10 +32,10 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <nuxt-link to="/rupa-suara" class="button is-dark">
+              <a href="~/static/files/Resume_Iman_Fattah.pdf" class="button is-dark">
                 <font-awesome-icon icon="angle-double-down"/>
                 <span class="pl-2">Download Resume</span>
-              </nuxt-link>
+              </a>
             </span>
           </div>
         </div>
@@ -70,7 +70,7 @@
       </div>
 
       <div class="imn_cta_home buttons">
-              <nuxt-link to="/rupa-suara" class="button is-primary is-large">
+              <nuxt-link to="/" class="button is-primary is-large">
                 <span class="pl-2">Pre-Order My Book</span>
               </nuxt-link>
 

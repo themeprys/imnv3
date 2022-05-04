@@ -1,12 +1,13 @@
 <template>
   <div>
-      <Hero />
-      <AboutMe />
-      <Portfolio />
+      <HeroBook />
+      <VideoBook />
+      <!-- <AboutMe />
+      <Portfolio /> -->
       <Contact />
-
   </div>
 </template>
+
 
 <script>
 export default {

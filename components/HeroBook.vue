@@ -18,13 +18,13 @@
             <nuxt-link to="/" class="navbar-item">
               Home
             </nuxt-link>
-            <a class="navbar-item" href="/#about_me">
+            <a class="navbar-item" href="/about/#about_me">
               About Me
             </a>
-            <a class="navbar-item" href="/#portfolio">
+            <a class="navbar-item" href="/about/#portfolio">
               Porfolio
             </a>
-            <a class="navbar-item"  href="/#contact">
+            <a class="navbar-item"  href="/about/#contact">
               Contact
             </a>
           </div>
@@ -32,10 +32,10 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <nuxt-link to="/rupa-suara" class="button is-dark">
+              <a href="~/static/files/Resume_Iman_Fattah.pdf" class="button is-dark">
                 <font-awesome-icon icon="angle-double-down"/>
                 <span class="pl-2">Download Resume</span>
-              </nuxt-link>
+              </a>
             </span>
           </div>
         </div>

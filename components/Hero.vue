@@ -120,10 +120,13 @@ export default {
 .navbar-item img {
   max-height: 70px;
 }
-.imn_social a {
+.imn_social a > svg {
   font-size: 25px !important;
   padding: 5px;
   color: black;
+}
+.imn_social a > svg {
+  width: 35px;
 }
 .hero {
   background: url(~/static/img/red.webp) center top;

@@ -1,12 +1,15 @@
 <template>
   <div id="contact" class="imn_section container">
-        <h3 class="has-text-centered title">Contact.</h3>
+        <h3 class="has-text-centered title mb-6">Contact.</h3>
         <p class="has-text-centered subtitle">Do you have questions, business offer or just want to say hi?<br>Feel free to reach me via email to halo@imanfattah.rocks or imanfattah@gmail.com</p>
-        <div class="imn_contact_content columns">
+        <div class="imn_footer_logo">
+          <img src="~/static/img/iman_logo_icon.png" width="300px" />
+        </div>
+        <!-- <div class="imn_contact_content columns">
             <div class="column imn_contact_logo has-text-centered">
                 <img src="~/static/img/iman_logo_icon.png" width="300px" />
             </div>
-        </div>
+        </div> -->
 
       <div class="imn_social has-text-centered">
         <a href="#" target="_blank">

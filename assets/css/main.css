@@ -12,27 +12,11 @@
     /* margin-top:50px; */
     margin: 30px 0 !important;
   }
-  .hero-body.imn_hero {
-    padding: 100px 0px !important;
-  }
   .navbar {
     height: 100px !important;
   }
   .navbar-item img {
     max-height: 70px;
-  }
-  .imn_social .fa-2x {
-    font-size: 25px !important;
-  }
-  .imn_foto_hero_home img {
-  -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
-  box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);
-  }
-  .navbar-menu {
-    font-weight: bold;
-  }
-  a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
-    background-color: transparent !important;
   }
   .imn_book_text p {
       font-size: 22px;
@@ -49,15 +33,6 @@
   }
   .imn_cta_home {
     margin-top:50px;
-  }
-  .hero-body.imn_hero {
-    padding: 100px 0px !important;
-  }
-  .navbar {
-    height: 100px !important;
-  }
-  .navbar-item img {
-    max-height: 70px;
   }
   .imn_social a > i {
     font-size: 25px !important;
@@ -90,9 +65,55 @@
     font-size: 16px !important;
   }
 
+  .imn_footer_logo {
+    width: 250px;
+    margin: 0 auto 0;
+}
+
+.imn_preorder_logo {
+    max-width: 800px;
+    margin: 50px auto 0; 
+}
+
+
   /* Footer */
   .footer {
     background: url(~/static/img/red.webp);
   padding: 50px !important;
   font-weight: bold;
+}
+
+/* Blurb */
+.imn_back_cover img {
+    -webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
+    box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);    
+}
+
+
+/* Mobile */
+@media only screen and (max-width: 600px) {
+    .hero-body.imn_hero {
+        text-align: center;
+    }
+    #contact.imn_section {
+        max-width: 350px;
+    }
+    .imn_cta_book.buttons a {
+        width: 100%;
+    }
+    .imn_foto_hero_home {
+        width: 200px;
+        margin: 0 auto 0;
+    } 
+    
+}
+
+/* Desktop */
+@media only screen and (min-width: 600px) {
+    .hero-body.imn_hero {
+        padding: 100px 0px !important;
+      }
+    .imn_hero .details {
+        padding-left: 60px;
+    }
 }

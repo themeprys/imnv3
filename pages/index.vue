@@ -1,6 +1,8 @@
 <template>
   <div>
       <HeroBook />
+      <Blurb />
+      <PreOrder />
       <VideoBook />
       <!-- <AboutMe />
       <Portfolio /> -->
@@ -12,14 +14,14 @@
 <script>
 export default {
   head: {
-    title: 'Iman Fattah - Personal Site',
+    title: 'Rupa Suara - Buku Memoar Catatan Perjalanan Iman Fattah',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: 'Iman Fattah is a a musician, sound artist, and a writer from Indonesia, currently based in Los Angeles, CA.'
+        content: 'Beli Buku Rupa Suara, Memoar Catatan Perjalanan bermusik Iman Fattah sebagai musisi, sound artist, dan penulis dari Indonesia.'
       }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]

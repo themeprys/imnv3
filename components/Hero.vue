@@ -7,11 +7,6 @@
           <nuxt-link to="/" class="navbar-item">
             <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
           </nuxt-link>
-          <span class="navbar-burger" data-target="navbarMenuHeroB">
-            <span></span>
-            <span></span>
-            <span></span>
-          </span>
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">

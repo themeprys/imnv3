@@ -16,7 +16,7 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <nuxt-link to="/" class="navbar-item is-active">
-              Home
+              Rupa Suara
             </nuxt-link>
             <nuxt-link class="navbar-item" to="/about">
               About Me

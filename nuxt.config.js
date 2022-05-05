@@ -38,7 +38,8 @@ export default {
     icons:{
      solid:true,
      brands:true
-    }
+    },
+    suffix: true,
    },
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [

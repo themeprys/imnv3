@@ -16,7 +16,7 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <a class="navbar-item" href="/">
-              Home
+              Rupa Suara
             </a>
             <a class="navbar-item is-active" href="#about_me">
               About Me

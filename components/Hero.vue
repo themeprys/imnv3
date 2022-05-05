@@ -33,7 +33,7 @@
           <div class="navbar-end">
             <span class="navbar-item">
               <a href="/files/Resume_Iman_Fattah.pdf" class="button is-dark" download>
-                <font-awesome-icon :icon="['fas', 'angle-double-down']"/>
+              <i class="fas fa-angle-double-down"></i>
                 <span class="pl-2">Download Resume</span>
               </a>
             </span>
@@ -56,16 +56,16 @@
 
       <div class="imn_social">
         <a href="#" target="_blank">
-            <font-awesome-icon :icon="['fab', 'facebook']"/>
+              <i class="fab fa-facebook"></i>
         </a>
         <a href="#" target="_blank">
-            <font-awesome-icon :icon="['fab', 'instagram']"/>
+              <i class="fab fa-instagram"></i>
         </a>
         <a href="#" target="_blank">
-          <font-awesome-icon :icon="['fab', 'twitter']"/>
+              <i class="fab fa-twitter"></i>
         </a>
         <a href="#" target="_blank">
-          <font-awesome-icon :icon="['fab', 'linkedin']"/>
+              <i class="fab fa-linkedin"></i>
         </a>
       </div>
 

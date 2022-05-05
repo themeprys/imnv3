@@ -13,7 +13,13 @@ export default {
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }
-    ]
+    ],
+    script: [
+      {
+        src: 'https://kit.fontawesome.com/e7c4e5e5a4.js',
+        crossorigin: 'anonymous'
+      }
+    ],    
   },
 
   // Global CSS: https://go.nuxtjs.dev/config-css
@@ -32,15 +38,7 @@ export default {
 
   // Modules for dev and build (recommended): https://go.nuxtjs.dev/config-modules
   buildModules: [
-    '@nuxtjs/fontawesome',
   ],
-  fontawesome: {
-    icons:{
-     solid:true,
-     brands:true
-    },
-    suffix: true,
-   },
   // Modules: https://go.nuxtjs.dev/config-modules
   modules: [
     // https://go.nuxtjs.dev/buefy

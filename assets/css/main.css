@@ -59,7 +59,7 @@
   .navbar-item img {
     max-height: 70px;
   }
-  .imn_social a > svg {
+  .imn_social a > i {
     font-size: 25px !important;
     padding: 5px;
     color: black;

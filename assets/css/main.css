@@ -175,6 +175,13 @@
         width: 300px;
         margin: 0 auto 0;
     }
+    .navbar-burger {
+        width: 140px !important;
+    }
+    .navbar-burger a {
+        color: black;
+        font-size: 18px;
+    }
 
     
 }

@@ -7,8 +7,19 @@
           <nuxt-link to="/" class="navbar-item">
             <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
           </nuxt-link>
+          <div class="mt-5 navbar-burger">
+          <a href="/files/Resume_Iman_Fattah.pdf" download>
+                My Resume <i class="fas fa-download"></i>
+          </a>
+
+          </div>
+          <!-- <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarImn">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a> -->
         </div>
-        <div id="navbarMenuHeroB" class="navbar-menu">
+        <div id="navbarImn" class="navbar-menu">
           <div class="navbar-end">
             <a class="navbar-item" href="/">
               Rupa Suara

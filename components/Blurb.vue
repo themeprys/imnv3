@@ -1,5 +1,5 @@
 <template>
-<div class="container my-6 py-6">
+<div class="container my-6 py-6 imn_blurb_container">
     <div class="columns">
         <div class="column is-size-1">
             <h2 class="has-text-weight-bold">What People Say</h2>
@@ -62,12 +62,4 @@ export default {
 </script>
 
 <style>
-.imn_blurb_wrap {
-    padding: 20px 0;
-}
-.imn_blurb_wrap figure {
-    float: center;
-    width: 200px;
-    margin: 0 auto 0;
-}
 </style>

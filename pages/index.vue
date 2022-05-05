@@ -2,8 +2,8 @@
   <div>
       <HeroBook />
       <Blurb />
-      <PreOrder />
       <VideoBook />
+      <PreOrder />
       <!-- <AboutMe />
       <Portfolio /> -->
       <Contact />

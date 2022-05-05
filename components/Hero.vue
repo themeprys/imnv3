@@ -4,9 +4,9 @@
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
-          <a class="navbar-item">
+          <nuxt-link to="/" class="navbar-item">
             <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
-          </a>
+          </nuxt-link>
           <span class="navbar-burger" data-target="navbarMenuHeroB">
             <span></span>
             <span></span>
@@ -15,10 +15,10 @@
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
-            <a class="navbar-item " href="/">
+            <a class="navbar-item" href="/">
               Home
             </a>
-            <a class="navbar-item" href="#about_me">
+            <a class="navbar-item is-active" href="#about_me">
               About Me
             </a>
             <a class="navbar-item" href="#portfolio">
@@ -33,7 +33,7 @@
           <div class="navbar-end">
             <span class="navbar-item">
               <a href="/files/Resume_Iman_Fattah.pdf" class="button is-dark" download>
-                <font-awesome-icon icon="angle-double-down"/>
+                <font-awesome-icon :icon="['fas', 'angle-double-down']"/>
                 <span class="pl-2">Download Resume</span>
               </a>
             </span>

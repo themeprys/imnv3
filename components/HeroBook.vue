@@ -33,7 +33,7 @@
           <div class="navbar-end">
             <span class="navbar-item">
               <a href="/files/Resume_Iman_Fattah.pdf" class="button is-dark" download>
-                <font-awesome-icon icon="angle-double-down"/>
+                <font-awesome-icon :icon="['fas', 'angle-double-down']"/>
                 <span class="pl-2">Download Resume</span>
               </a>
             </span>
@@ -60,7 +60,8 @@
         Buku Memoar Catatan Perjalanan Iman Fattah
       </h3>
       <div class="imn_cta_book buttons">
-        <button class="button is-primary is-large"><font-awesome-icon icon="hand-point-right"/>&nbsp;&nbsp;Buy IDR 90.000</button>
+        <a class="button is-primary is-large" href="#" target="_blank">
+          <font-awesome-icon :icon="['fas', 'hand-point-right']"/>&nbsp;&nbsp;Buy IDR 90.000</a>
       </div>
 
       <div class="imn_book_text">

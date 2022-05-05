@@ -5,17 +5,3 @@
   </div>
 </footer>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-.footer {
-    background: url(~/static/img/red.webp);
-  padding: 50px !important;
-  font-weight: bold;
-}
-</style>

@@ -24,12 +24,3 @@
       </div>
   </div>
 </template>
-
-<style>
-#contact.imn_section {
-  padding: 60px 0 !important;
-}
-#contact .subtitle {
-  font-size: 16px !important;
-}
-</style>

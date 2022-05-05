@@ -15,16 +15,16 @@
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
-            <a class="navbar-item is-active" href="/">
+            <a class="navbar-item " href="/">
               Home
             </a>
-            <a class="navbar-item" href="/about/#about_me">
+            <a class="navbar-item" href="#about_me">
               About Me
             </a>
-            <a class="navbar-item" href="/about/#portfolio">
+            <a class="navbar-item" href="#portfolio">
               Porfolio
             </a>
-            <a class="navbar-item"  href="/about/#contact">
+            <a class="navbar-item"  href="#contact">
               Contact
             </a>
           </div>
@@ -32,7 +32,7 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <a href="~/static/files/Resume_Iman_Fattah.pdf" class="button is-dark">
+              <a href="/files/Resume_Iman_Fattah.pdf" class="button is-dark" download>
                 <font-awesome-icon icon="angle-double-down"/>
                 <span class="pl-2">Download Resume</span>
               </a>
@@ -93,52 +93,3 @@
 
 </section>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-.imn_title {
-  font-size: 80px;
-}
-.imn_subtitle {
-  max-width: 500px;
-  padding-bottom: 20px;
-}
-.imn_cta_home {
-  margin-top:50px;
-}
-.hero-body.imn_hero {
-  padding: 100px 0px !important;
-}
-.navbar {
-  height: 100px !important;
-}
-.navbar-item img {
-  max-height: 70px;
-}
-.imn_social a > svg {
-  font-size: 25px !important;
-  padding: 5px;
-  color: black;
-}
-.imn_social a > svg {
-  width: 35px;
-}
-.hero {
-  background: url(~/static/img/red.webp) center top;
-}
-.imn_foto_hero_home img {
--webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);
-}
-.navbar-menu {
-  font-weight: bold;
-}
-a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
-  background-color: transparent !important;
-}
-</style>

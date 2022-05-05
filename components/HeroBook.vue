@@ -15,12 +15,12 @@
         </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
-            <nuxt-link to="/" class="navbar-item">
+            <nuxt-link to="/" class="navbar-item is-active">
               Home
             </nuxt-link>
-            <a class="navbar-item" href="/about/#about_me">
+            <nuxt-link class="navbar-item" to="/about">
               About Me
-            </a>
+            </nuxt-link>
             <a class="navbar-item" href="/about/#portfolio">
               Porfolio
             </a>
@@ -32,7 +32,7 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <a href="~/static/files/Resume_Iman_Fattah.pdf" class="button is-dark">
+              <a href="/files/Resume_Iman_Fattah.pdf" class="button is-dark" download>
                 <font-awesome-icon icon="angle-double-down"/>
                 <span class="pl-2">Download Resume</span>
               </a>
@@ -68,28 +68,6 @@
         <h3 class="subtitle has-text-weight-bold">Pembayaran Via:</h3>
         <img src="~/static/img/payment.png" />
       </div>
-      <!-- <div class="imn_social">
-        <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
-            <font-awesome-icon :icon="['fab', 'facebook']"/>
-          </font-awesome-layers>
-        </a>
-        <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
-            <font-awesome-icon :icon="['fab', 'instagram']"/>
-          </font-awesome-layers>
-        </a>
-        <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
-          <font-awesome-icon :icon="['fab', 'twitter']"/>
-          </font-awesome-layers>        </a>
-        <a href="#" target="_blank">
-          <font-awesome-layers class="fa-2x mx-2">
-          <font-awesome-icon :icon="['fab', 'linkedin']"/>
-          </font-awesome-layers>
-        </a>
-      </div> -->
-
         </div>
       </div>
 
@@ -100,51 +78,3 @@
 
 </section>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-.imn_book_title {
-  font-size: 60px;
-}
-.imn_book_subtitle {
-  /* padding-bottom: 20px; */
-}
-h3.imn_book_subtitle {
-  font-size: 25px !important;
-}
-.imn_cta_book {
-  /* margin-top:50px; */
-  margin: 30px 0 !important;
-}
-.hero-body.imn_hero {
-  padding: 100px 0px !important;
-}
-.navbar {
-  height: 100px !important;
-}
-.navbar-item img {
-  max-height: 70px;
-}
-.imn_social .fa-2x {
-  font-size: 25px !important;
-}
-.imn_foto_hero_home img {
--webkit-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65); 
-box-shadow: 2px 5px 20px -6px rgba(0,0,0,0.65);
-}
-.navbar-menu {
-  font-weight: bold;
-}
-a.navbar-item:focus, a.navbar-item:focus-within, a.navbar-item:hover, a.navbar-item.is-active, .navbar-link:focus, .navbar-link:focus-within, .navbar-link:hover, .navbar-link.is-active {
-  background-color: transparent !important;
-}
-.imn_book_text p {
-    font-size: 22px;
-    padding-bottom:20px;
-}
-</style>

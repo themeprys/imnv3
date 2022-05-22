@@ -9,7 +9,7 @@
           </nuxt-link>
           <div class="mt-5 navbar-burger">
           <a href="/files/Resume_Iman_Fattah.pdf" download>
-                My Resume <i class="fas fa-download"></i>
+                Resume <i class="fas fa-download"></i>
           </a>
 
           </div>
@@ -21,26 +21,26 @@
         </div>
         <div id="navbarImn" class="navbar-menu">
           <div class="navbar-end">
-            <a class="navbar-item" href="/">
+            <nuxt-link class="navbar-item" to="/">
               Rupa Suara
-            </a>
-            <a class="navbar-item is-active" href="#about_me">
-              About Me
-            </a>
-            <a class="navbar-item" href="#portfolio">
-              Porfolio
-            </a>
-            <a class="navbar-item"  href="#contact">
-              Contact
-            </a>
+            </nuxt-link>
+            <nuxt-link class="navbar-item is-active" to="/about">
+              Tentang Saya
+            </nuxt-link>
+            <nuxt-link class="navbar-item"  to="/contact">
+              Kontak
+            </nuxt-link>
+            <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
+              Imanfattah.rocks&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>                       
           </div>
         </div>        
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <a href="/files/Resume_Iman_Fattah.pdf" class="button is-dark" download>
-              <i class="fas fa-angle-double-down"></i>
-                <span class="pl-2">Download Resume</span>
+              <a href="https://xabi.us/?add-to-cart=4291" class="button is-dark" target="_blank">
+                <span class="pl-2">Pra-Pesan Buku</span>&nbsp;&nbsp;
+              <i class="fas fa-external-link-alt"></i>                
               </a>
             </span>
           </div>
@@ -67,24 +67,25 @@
       </h3>
 
       <div class="imn_social">
-        <a href="#" target="_blank">
+        <a href="https://www.facebook.com/iman.fattah/" target="_blank">
               <i class="fab fa-facebook"></i>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://instagram.com/imanfattah" target="_blank">
               <i class="fab fa-instagram"></i>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://twitter.com/imanfattah" target="_blank">
               <i class="fab fa-twitter"></i>
         </a>
-        <a href="#" target="_blank">
+        <a href="https://www.linkedin.com/in/imanfattah/" target="_blank">
               <i class="fab fa-linkedin"></i>
         </a>
       </div>
 
       <div class="imn_cta_home buttons">
-              <nuxt-link to="/" class="button is-primary is-large">
-                <span class="pl-2">Pre-Order My Book</span>
-              </nuxt-link>
+              <a href="/files/Resume_Iman_Fattah.pdf" class="button is-primary is-large" download>
+                <span class="pl-2">Unduh Resume</span>&nbsp;&nbsp;<i class="fas fa-angle-double-down"></i>
+              </a>
+
       </div>
         </div>
         <div class="column is-hidden-mobile">

@@ -1,55 +1,43 @@
 <template>
-  <nav class="navbar container is-fluid" role="navigation" aria-label="main navigation">
-  <div class="navbar-brand">
-    <a class="navbar-item" href="/">
-      <img src="https://bulma.io/images/bulma-logo.png" width="112" height="28">
-    </a>
-
-    <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarBasicExample">
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-      <span aria-hidden="true"></span>
-    </a>
-  </div>
-
-  <div id="navbarBasicExample" class="navbar-menu">
-    <div class="navbar-start">
-      <a class="navbar-item">
-        Home
-      </a>
-
-      <a class="navbar-item">
-        About Me
-      </a>
-      <a class="navbar-item">
-        Portfolio
-      </a>
-
-      <a class="navbar-item">
-        Contact
-      </a>
-
-    </div>
-
-    <div class="navbar-end">
-      <div class="navbar-item">
-        <div class="buttons">
-          <a class="button is-primary">
-            <strong>Pre Order Book</strong>
+    <nav class="navbar">
+      <div class="container">
+        <div class="navbar-brand">
+          <nuxt-link to="/" class="navbar-item">
+            <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
+          </nuxt-link>
+          <div class="mt-5 navbar-burger">
+          <a href="/files/Resume_Iman_Fattah.pdf" download>
+                Pra-Pesan Buku <i class="fas fa-download"></i>
           </a>
+          </div>
+        </div>
+        <div id="navbarImn" class="navbar-menu">
+          <div class="navbar-end">
+            <nuxt-link class="navbar-item" to="/">
+              Rupa Suara
+            </nuxt-link>
+            <nuxt-link class="navbar-item is-active" to="/about">
+              Tentang Saya
+            </nuxt-link>
+            <nuxt-link class="navbar-item"  to="/contact">
+              Kontak
+            </nuxt-link>
+
+            <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
+              Imanfattah.rocks&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+            </a>                       
+          </div>
+        </div>        
+        <div id="navbarMenuHeroB" class="navbar-menu">
+          <div class="navbar-end">
+            <span class="navbar-item">
+              <a href="https://xabi.us/?add-to-cart=4291" class="button is-dark" target="_blank">
+                <span class="pl-2">Pra-Pesan Buku</span>&nbsp;&nbsp;
+              <i class="fas fa-external-link-alt"></i>                
+              </a>
+            </span>
+          </div>
         </div>
       </div>
-    </div>
-  </div>
-</nav>
+    </nav>
 </template>
-
-<script>
-export default {
-
-}
-</script>
-
-<style>
-
-</style>

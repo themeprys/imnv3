@@ -2,7 +2,7 @@
 <div class="container my-6 py-6 imn_blurb_container">
     <div class="columns">
         <div class="column is-size-1">
-            <h2 class="has-text-weight-bold">What People Say</h2>
+            <h2 class="has-text-weight-bold">Uraian Singkat</h2>
         </div>
     </div>
     <hr>
@@ -11,39 +11,42 @@
             <div class="columns imn_blurb_wrap">
                 <div class="column is-3">
                     <figure class="image is-128x128">
-                        <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraight&accessoriesType=Blank&hairColor=BrownDark&facialHairType=Blank&clotheType=BlazerShirt&eyeType=Default&eyebrowType=Default&mouthType=Default&skinColor=Light' />            
+                        <img src='~/static/img/Anto_Arief.jpg' />            
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="is-size-4 has-text-weight-bold">Kartika Jahja</h3>
-                    <p class="is-italic">Musisi, Aktivis</p>
-                    <p class="pt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, iure quisquam labore illo, ipsum esse aperiam hic tempora minus exercitationem quod rerum laudantium iste? Ut soluta consequuntur aliquam fuga ad!</p>
+                    <h3 class="is-size-4 has-text-weight-bold">Anto Arief</h3>
+                    <p class="is-italic">Pemred Pop Hari Ini)</p>
+                    <p class="pt-3">Tidak semua penulis bisa menulis musik, dan tidak semua musisi bisa menulis musik. Tapi Iman Fattah bisa melakukan kedua hal itu. Dan Iman juga menjadi bagian dari musisi muda di skena independen yang menjadi saksi sekaligus pelaku di era peralihan internet dan MTV, serta analog menuju digital internet di akhir 90an.</p>
+                    <p class="pt-4">Membentuk band Lain, Zeke and The Popo, terlibat dalam Tika and The Dissidents, dan menjadi produser untuk Janji Joni dan Onrop Musikal. Yang terakhir Iman membentuk supergrup Raksasa, bersama nama-nama besar di skena Independen. Dan semua cerita itu diceritakan dalam buku ini. Yang menjadi pelengkap kepingan puzzle tentang skena independen akhir 90an yang masih tercerai berai pendokumentasiannya.</p>
+                    <p class="pt-4">Untuk itu kita patut berterima kasih pada Iman karena telah berbaik hati menuliskan kisahnya itu di buku ini.&nbsp;</p>
                 </div>
             </div>
 
             <div class="columns imn_blurb_wrap">
                 <div class="column is-3">
                     <figure class="image is-128x128">
-                        <img src='https://avataaars.io/?avatarStyle=Circle&topType=WinterHat4&accessoriesType=Round&hatColor=Red&hairColor=BlondeGolden&facialHairType=BeardMedium&facialHairColor=BrownDark&clotheType=ShirtScoopNeck&clotheColor=Gray01&eyeType=Cry&eyebrowType=Angry&mouthType=Disbelief&skinColor=Brown' />
+                        <img src='~/static/img/Risky_Summerbee.jpg' />
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="is-size-4 has-text-weight-bold">Aris Setyawan</h3>
-                    <p class="is-italic">Penulis, Peneliti</p>
-                    <p class="pt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, iure quisquam labore illo, ipsum esse aperiam hic tempora minus exercitationem quod rerum laudantium iste? Ut soluta consequuntur aliquam fuga ad!</p>
+                    <h3 class="is-size-4 has-text-weight-bold">Risky Summerbee</h3>
+                    <p class="is-italic">Seniman, Peneliti</p>
+                    <p class="pt-3">Yang berharga dalam jurnal musikal Iman Fatah ini adalah informasi tentang infrastruktur sosial dan infrastruktur fisik di kancah musik independen Jakarta tahun 2000an.</p>
+                    <p class="pt-4">Catatan atas infrastruktur-infrastruktur dalam jejaring "skena" itu berharga karena menyiratkan norma dan kecenderungan sosial dan estetik dalam produksi musik DIY di Jakarta, sebuah zeitgeist dalam budaya populer pada suatu ruang dan waktu - di Jakarta pada awal peralihan abad ke-21.</p>
                 </div>
             </div>
             
             <div class="columns imn_blurb_wrap">
                 <div class="column is-3">
                     <figure class="image is-128x128">
-                        <img src='https://avataaars.io/?avatarStyle=Circle&topType=LongHairStraightStrand&accessoriesType=Kurt&hairColor=Red&facialHairType=MoustacheFancy&facialHairColor=Platinum&clotheType=Hoodie&clotheColor=Gray02&eyeType=Happy&eyebrowType=Default&mouthType=Sad&skinColor=Yellow' />
+                        <img src='~/static/img/Ubiet_Raseuki.jpg' />
                     </figure>
                 </div>
                 <div class="column">
-                    <h3 class="is-size-4 has-text-weight-bold">Mian Tiara</h3>
-                    <p class="is-italic">Aktris</p>
-                    <p class="pt-3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum, iure quisquam labore illo, ipsum esse aperiam hic tempora minus exercitationem quod rerum laudantium iste? Ut soluta consequuntur aliquam fuga ad!</p>
+                    <h3 class="is-size-4 has-text-weight-bold">Ubiet Raseuki</h3>
+                    <p class="is-italic">Pesuara, Etnomusikolog</p>
+                    <p class="pt-3"><p>Sebuah penuturan yang menarik tentang perjumpaan musikal, oleh seorang yang berkiprah baik sebagai instrumentalis, desainer bunyi, maupun produser musik. Iman Fattah menghadirkan penangkapan yang luas dalam khazanah musik yang beragam.</p>
                 </div>
             </div>
         </div>

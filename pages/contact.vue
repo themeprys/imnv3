@@ -1,15 +1,12 @@
 <template>
   <div>
-      <Hero />
-      <AboutMe />
-      <!-- <Portfolio /> -->
-      <!-- <Contact /> -->
-
+      <Contact />
   </div>
 </template>
 
 <script>
 export default {
+    layout: 'basic',
   head: {
     title: 'Iman Fattah - Language and Ontology Engineer | Musician and Audio Technologist',
     meta: [

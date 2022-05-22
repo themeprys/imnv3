@@ -6,7 +6,7 @@
       <PreOrder />
       <!-- <AboutMe />
       <Portfolio /> -->
-      <Contact />
+      <!-- <Contact /> -->
   </div>
 </template>
 

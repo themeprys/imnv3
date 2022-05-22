@@ -7,12 +7,11 @@
           <nuxt-link to="/" class="navbar-item">
             <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
           </nuxt-link>
-          <div class="mt-5 navbar-burger">
+          <!-- <div class="mt-5 navbar-burger">
           <a href="/files/Resume_Iman_Fattah.pdf" download>
                 Resume <i class="fas fa-download"></i>
           </a>
-
-          </div>
+          </div> -->
           <!-- <a role="button" class="navbar-burger" aria-label="menu" aria-expanded="false" data-target="navbarImn">
             <span aria-hidden="true"></span>
             <span aria-hidden="true"></span>
@@ -81,7 +80,7 @@
         </a>
       </div>
 
-      <div class="imn_cta_home buttons">
+      <div class="imn_cta_home_about buttons">
               <a href="/files/Resume_Iman_Fattah.pdf" class="button is-primary is-large" download>
                 <span class="pl-2">Unduh Resume</span>&nbsp;&nbsp;<i class="fas fa-angle-double-down"></i>
               </a>

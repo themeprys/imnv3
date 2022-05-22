@@ -37,7 +37,7 @@
     max-width: 500px;
     padding-bottom: 20px;
   }
-  .imn_cta_home {
+  .imn_cta_home, .imn_cta_home_about {
     margin-top:50px;
   }
   .imn_social a > i {
@@ -134,7 +134,8 @@
         max-width: 350px;
     }
     .imn_cta_book.buttons a {
-        width: 100%;
+        width: 90% !important;
+        font-size: 22px !important;
     }
     .imn_foto_hero_home {
         width: 200px;
@@ -162,6 +163,10 @@
     }
     .imn_cta_home.buttons a {
         width: 90%;
+    }
+    .imn_cta_home_about.buttons a {
+      width: 100%;
+      margin: 20px 0 0 0;
     }
     .imn_section_title {
         padding: 0 30px;

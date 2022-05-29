@@ -34,7 +34,7 @@
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
-              <a href="https://xabi.us" class="button is-dark" target="_blank">
+              <a href="https://xabi.us/?add-to-cart=4291" class="button is-dark" target="_blank">
                 <span class="pl-2">Pra-Pesan Buku</span>&nbsp;&nbsp;
               <i class="fas fa-external-link-alt"></i>                
               </a>

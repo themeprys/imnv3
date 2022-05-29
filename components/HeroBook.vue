@@ -50,7 +50,7 @@
       <div class="columns">
         <div class="column is-4">
             <div class="imn_foto_hero_home">
-                <img src="~/static/img/rupa-suara.jpg" class="img-fluid" />
+                <img src="~/static/img/Front_Cover_Buku_Rupa_Suara_Iman_Fattah.webp" class="img-fluid" />
             </div>
         </div>
 

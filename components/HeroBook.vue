@@ -63,9 +63,10 @@
           </h3> -->
           <div class="imn_cta_book buttons">
             <a class="button is-primary is-large" href="https://xabi.us/?add-to-cart=4291" target="_blank">
-                  <i class="fas fa-hand-point-right"></i>&nbsp;&nbsp;Pra-Pesan IDR 90.000
+                  <i class="fas fa-hand-point-right"></i>&nbsp;&nbsp;Pra-Pesan IDR 70.000
             </a>&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
           </div>
+           
           <div class="imn_book_text">
 <p>Rupa Suara adalah sebuah memoar perjalanan seorang Iman Fattah. Catatan ini menceritakan perjalanan Iman sebagai seorang musisi, seniman, sound designer, hingga produser musik.</p>
 <p>Perjalanan tersebut berada di rentang dua dekade antara 1990an akhir hingga 2020. Dengan apik Iman menjabarkan perjalanannya bermusik dengan berbagai proyek seperti LAIN, Zeke and The Popo, hingga Raksasa.</p>

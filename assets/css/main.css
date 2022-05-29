@@ -125,6 +125,8 @@
 }
 
 
+
+
 /* Mobile */
 @media only screen and (max-width: 600px) {
     .hero-body.imn_hero {
@@ -200,6 +202,10 @@
       text-align: center;
     }
 
+    .imn_payment_wrap img {
+      width: 100% !important;
+  }
+
     
 }
 
@@ -211,4 +217,8 @@
     .imn_hero .details {
         padding-left: 60px;
     }
+    .imn_payment_wrap {
+      width: 800px;
+      margin: 0 auto 0;
+  }
 }

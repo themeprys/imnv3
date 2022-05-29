@@ -7,7 +7,7 @@
     </div>
     <hr>
     <div class="columns">
-        <div class="column is-8">
+        <div class="column is-7">
             <div class="columns imn_blurb_wrap">
                 <div class="column is-3">
                     <figure class="image is-128x128">
@@ -51,7 +51,7 @@
             </div>
         </div>
         <div class="column imn_back_cover">
-                <img src="~/static/img/back-cover.jpg" />
+                <img src="~/static/img/Back_Cover_Buku_Rupa_SuaraIman_Fattah.webp" />
         </div>
     </div>
 

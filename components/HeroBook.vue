@@ -35,7 +35,7 @@
           <div class="navbar-end">
             <span class="navbar-item">
               <a href="https://xabi.us/?add-to-cart=4291" class="button is-dark" target="_blank">
-                <span class="pl-2">Pra-Pesan Buku</span>&nbsp;&nbsp;
+                <span class="pl-2">Pesan Buku</span>&nbsp;&nbsp;
               <i class="fas fa-external-link-alt"></i>                
               </a>
             </span>
@@ -63,7 +63,7 @@
           </h3> -->
           <div class="imn_cta_book buttons">
             <a class="button is-primary is-large" href="https://xabi.us/?add-to-cart=4291" target="_blank">
-                  <i class="fas fa-hand-point-right"></i>&nbsp;&nbsp;Pra-Pesan IDR 70.000
+                  <i class="fas fa-hand-point-right"></i>&nbsp;&nbsp;Pesan IDR 85.000
             </a>&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
           </div>
            

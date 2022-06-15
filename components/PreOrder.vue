@@ -6,7 +6,7 @@
                 <p class="has-text-centered">Pemesanan online praktis mudah pembayaran menggunakan Gopay, QRis dan Bank Transfer dll</p>
                 <div class="imn_cta_book preorder buttons ">
                     <a class="button is-primary is-large" href="https://xabi.us/?add-to-cart=4291" target="_blank">
-                        Pra-Pesan IDR 70.000&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
+                        Pesan IDR 85.000&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
                     </a>
                 </div>
                 <p class="has-text-centered">Harga belum termasuk ongkos kirim</p>

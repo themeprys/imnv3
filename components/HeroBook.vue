@@ -19,6 +19,12 @@
             <nuxt-link to="/" class="navbar-item is-active">
               Rupa Suara
             </nuxt-link>
+            <nuxt-link class="navbar-item" to="/credits">
+              Book Credits
+            </nuxt-link>
+            <nuxt-link class="navbar-item" to="/tour">
+              Book Tour
+            </nuxt-link>
             <nuxt-link class="navbar-item" to="/about">
               Tentang Saya
             </nuxt-link>
@@ -26,9 +32,9 @@
               Kontak
             </nuxt-link>
 
-            <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
+            <!-- <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
               Imanfattah.rocks&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
-            </a>
+            </a> -->
           </div>
         </div>        
         <div id="navbarMenuHeroB" class="navbar-menu">

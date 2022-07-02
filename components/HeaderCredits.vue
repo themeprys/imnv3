@@ -16,13 +16,13 @@
             <nuxt-link class="navbar-item" to="/">
               Rupa Suara
             </nuxt-link>
-            <nuxt-link class="navbar-item" to="/credits">
+            <nuxt-link class="navbar-item is-active" to="/credits">
               Book Credits
             </nuxt-link>
             <nuxt-link class="navbar-item" to="/tour">
               Book Tour
             </nuxt-link>
-            <nuxt-link class="navbar-item is-active" to="/about">
+            <nuxt-link class="navbar-item" to="/about">
               Tentang Saya
             </nuxt-link>
             <nuxt-link class="navbar-item"  to="/contact">

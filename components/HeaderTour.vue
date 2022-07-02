@@ -19,10 +19,10 @@
             <nuxt-link class="navbar-item" to="/credits">
               Book Credits
             </nuxt-link>
-            <nuxt-link class="navbar-item" to="/tour">
+            <nuxt-link class="navbar-item is-active" to="/tour">
               Book Tour
             </nuxt-link>
-            <nuxt-link class="navbar-item is-active" to="/about">
+            <nuxt-link class="navbar-item" to="/about">
               Tentang Saya
             </nuxt-link>
             <nuxt-link class="navbar-item"  to="/contact">

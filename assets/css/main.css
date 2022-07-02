@@ -124,8 +124,15 @@
     width: 300px;
 }
 
+/* Book Credits */
 
+.imn_credits p {
+padding: 10px 0;
+}
 
+.imn_booktour {
+  text-align: center;
+}
 
 /* Mobile */
 @media only screen and (max-width: 600px) {

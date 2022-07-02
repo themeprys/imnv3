@@ -6,9 +6,9 @@
             <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
           </nuxt-link>
           <div class="mt-5 navbar-burger">
-          <a href="/files/Resume_Iman_Fattah.pdf" download>
+          <!-- <a href="/files/Resume_Iman_Fattah.pdf" download>
                 Pra-Pesan Buku <i class="fas fa-download"></i>
-          </a>
+          </a> -->
           </div>
         </div>
         <div id="navbarImn" class="navbar-menu">

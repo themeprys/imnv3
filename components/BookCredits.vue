@@ -1,6 +1,6 @@
 <template>
   <div id="contact" class="imn_section container">
-        <h3 class="has-text-centered title mb-6">Book Credits.</h3>
+        <h3 class="has-text-centered title mb-6">Tentang Buku.</h3>
         <div class="columns imn_credits">
           <div class="column">
         <strong>RUPA SUARA</strong><br />Iman Fattah<br />Cetakan I, Juni 2022<br />xii x 120 halaman; 14,5 x 21 cm<br />ISBN: 9786237709374<br /><br />Editor: Aris Setyawan<br />Layout: Dany Rachman<br />Desain Sampul: Sarah Arifin<br />Penulis CODA: Aris Setyawan<br /><br />Penerbit:<br />ARUNG WACANA<br />Jl. Salakan N0.207 Rt.07<br />Bangunharjo, Sewon, Bantul<br />Yogyakarta 55188<br />Tlp: 081297340780<br />Email:<br/><a href="mailto:arungwacana@gmail.com" target="_blank" rel="noopener">arungwacana@gmail.com</a>     

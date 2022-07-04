@@ -20,10 +20,10 @@
               Rupa Suara
             </nuxt-link>
             <nuxt-link class="navbar-item" to="/credits">
-              Book Credits
+              Tentang Buku
             </nuxt-link>
             <nuxt-link class="navbar-item" to="/tour">
-              Book Tour
+              Bedah Buku
             </nuxt-link>
             <nuxt-link class="navbar-item" to="/about">
               Tentang Saya

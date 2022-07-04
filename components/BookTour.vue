@@ -1,6 +1,6 @@
 <template>
   <div id="contact" class="imn_section container">
-        <h3 class="has-text-centered title mb-6">Book Tour.</h3>
+        <h3 class="has-text-centered title mb-6">Bedah Buku.</h3>
         <!-- <p class="has-text-centered subtitle">Do you have questions, business offer or just want to say hi?<br>Feel free to reach me via email to halo@imanfattah.rocks or imanfattah@gmail.com</p> -->
         <!-- <p class="has-text-centered subtitle">halo@imanfattah.rocks or imanfattah@gmail.com</p>         -->
         <div class="imn_booktour">

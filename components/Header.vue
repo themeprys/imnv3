@@ -6,7 +6,7 @@
             <img src="~/static/img/iman_logo.svg" alt="Iman Fattah" height="100px">
           </nuxt-link>
           <div class="mt-5 navbar-burger">
-          <a href="/files/Resume_Iman_Fattah.pdf" download>
+          <a href="/files/Resume_Iman_Fattah_2023.pdf" download>
                 Pra-Pesan Buku <i class="fas fa-download"></i>
           </a>
           </div>
@@ -31,16 +31,16 @@
 
             <!-- <a class="navbar-item"  href="https://www.imanfattah.rocks/" target="_blank">
               Imanfattah.rocks&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
-            </a>                       
+            </a>
              -->
           </div>
-        </div>        
+        </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
               <a href="https://xabi.us/?add-to-cart=4291" class="button is-dark" target="_blank">
                 <span class="pl-2">Pesan Buku</span>&nbsp;&nbsp;
-              <i class="fas fa-external-link-alt"></i>                
+              <i class="fas fa-external-link-alt"></i>
               </a>
             </span>
           </div>

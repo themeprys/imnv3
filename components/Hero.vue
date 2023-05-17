@@ -39,13 +39,13 @@
               Imanfattah.rocks&nbsp;&nbsp;<i class="fas fa-external-link-alt"></i>
             </a>                        -->
           </div>
-        </div>        
+        </div>
         <div id="navbarMenuHeroB" class="navbar-menu">
           <div class="navbar-end">
             <span class="navbar-item">
               <a href="https://xabi.us/?add-to-cart=4291" class="button is-dark" target="_blank">
                 <span class="pl-2">Pesan Buku</span>&nbsp;&nbsp;
-              <i class="fas fa-external-link-alt"></i>                
+              <i class="fas fa-external-link-alt"></i>
               </a>
             </span>
           </div>
@@ -87,7 +87,7 @@
       </div>
 
       <div class="imn_cta_home_about buttons">
-              <a href="/files/Resume_Iman_Fattah.pdf" class="button is-primary is-large" download>
+              <a href="/files/Resume_Iman_Fattah_2023.pdf" class="button is-primary is-large" download>
                 <span class="pl-2">Unduh Resume</span>&nbsp;&nbsp;<i class="fas fa-angle-double-down"></i>
               </a>
 
